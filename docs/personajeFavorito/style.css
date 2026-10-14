@@ -2,8 +2,8 @@
   PALETA DE COLORES
 ======================================*/
 :root {
-    --color-primario: #5b5ff5;
-    --color-secundario: #ff8f70;
+    --color-primario: #098bfd;
+    --color-secundario: #7fd8e4;
 }
 
 /*======================================
@@ -21,11 +21,11 @@ body {
     background: linear-gradient(
         135deg,
         var(--color-primario),
-        var(--color-secundario)
+        var(--color-secundario)         
     );
 
     min-height: 100vh;
-    color: #333;
+    color: #00b4fc;
 }
 
 /*======================================
